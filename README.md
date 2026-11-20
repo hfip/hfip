@@ -27,6 +27,21 @@ I build small, focused tools and ship Arabic translations for open-source softwa
 - **Automation** — Python, Node and shell tooling for repetitive workflows, data handling and self-hosted services.
 - **Media tooling** — bridges and add-ons around self-hosted media servers.
 
+## Tooling
+
+I keep a small set of Arabic and RTL tools for Apple development — layout linting, String
+Catalog coverage, Arabic plural rules, bidi inspection, subtitle repair. Each one is a
+separate repository with its own tests.
+
+[Arabic dev tools →](https://github.com/hfip/arabic-dev-tools)
+
+## Selected work
+
+- Complete Arabic localizations for open-source Apple apps — string catalogs, RTL passes,
+  plural forms and terminology.
+- Upstream contributions to iOS tools and utilities, merged with credit.
+- Arabic-first media tooling and self-hosted bridges.
+
 ## How I work
 
 - Read the code before the strings: keys, placeholders and context first.
