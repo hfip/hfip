@@ -6,6 +6,15 @@
 
 <sub>Swift and SwiftUI on Apple platforms — with the scripts, pipelines and translations that make software usable in Arabic.</sub>
 
+<p>
+  <a href="https://abdulluh.site"><strong>abdulluh.site ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/hfip/arabic-dev-tools">Arabic dev tools</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/Abdulluh_X">Telegram</a>
+</p>
+
+[![Website](https://img.shields.io/badge/abdulluh.site-0A0A0B?style=flat-square&logo=safari&logoColor=3BDC85)](https://abdulluh.site)
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
@@ -55,4 +64,4 @@ Arabic (native) · English (professional)
 
 ---
 
-<sub>Open an issue on any repository if you would like to get in touch.</sub>
+<sub><a href="https://abdulluh.site"><strong>abdulluh.site</strong></a> · <a href="https://t.me/Abdulluh_X">Telegram</a> · <a href="mailto:h-fip@hotmail.com">h-fip@hotmail.com</a> — or open an issue on any repository if you would like to get in touch.</sub>
